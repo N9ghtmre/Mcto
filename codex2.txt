@@ -1,116 +1,440 @@
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("620,137,442,967,552", gg.TYPE_QWORD)
-gg.refineNumber("620,137,442,967,552", gg.TYPE_QWORD)
-gg.getResults(500)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("620,137,442,967,552", gg.TYPE_QWORD)
-gg.refineNumber("620,137,442,967,552", gg.TYPE_QWORD)
-gg.getResults(500)
-gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("620,137,442,967,552", gg.TYPE_QWORD)
-gg.refineNumber("620,137,442,967,552", gg.TYPE_QWORD)
+gg.searchNumber("70368744177664;288232579469934592", gg.TYPE_QWORD)
+gg.refineNumber("70368744177664", gg.TYPE_QWORD)
 gg.getResults(50000)
 gg.editAll("288233678981562368", gg.TYPE_QWORD)
-gg.clearResults()
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("578351706144768;564058054983680", gg.TYPE_QWORD)
 gg.refineNumber("578351706144768", gg.TYPE_QWORD)
 gg.getResults(50000)
-gg.editAll("361418272522109953", gg.TYPE_QWORD)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
 gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD)
+gg.refineNumber("582749752655872", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
 gg.clearResults()
-gg.searchNumber("577252194516992;288233678981562368", gg.TYPE_QWORD)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("565157566611456;566257078239232", gg.TYPE_QWORD)
+gg.refineNumber("565157566611456", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("17,592,186,044,416;582749752655872", gg.TYPE_QWORD)
+gg.refineNumber("17,592,186,044,416", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("577252194516992;288232579469934592", gg.TYPE_QWORD)
 gg.refineNumber("577252194516992", gg.TYPE_QWORD)
-gg.getResults(99999)
-gg.editAll("361418272522109953", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("578351706144768;578351706144768", gg.TYPE_QWORD)
+gg.refineNumber("578351706144768", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("566257078239232;573957954600960", gg.TYPE_QWORD)
+gg.refineNumber("566257078239232", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("573953659633664;582749752655872", gg.TYPE_QWORD)
+gg.refineNumber("573953659633664", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("572854148005888;620137442967552", gg.TYPE_QWORD)
+gg.refineNumber("572854148005888;", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("4398046511104;544434349408256", gg.TYPE_QWORD)
+gg.refineNumber("4398046511104", gg.TYPE_QWORD)
+gg.getResults(50000)
+gg.editAll("288233678981562368", gg.TYPE_QWORD)
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("569,555,613,122,560", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("569,555,613,122,560", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("568,456,101,494,784", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("568,456,101,494,784", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("575,053,171,261,440", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("575,053,171,261,440", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("576,152,682,889,216", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("576,152,682,889,216", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("570,655,124,750,336", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("570,655,124,750,336", gg.TYPE_QWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("65795~590336;67109633;131330", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("65795~590336", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(56789)
-gg.editAll("361418272522109953", gg.TYPE_QWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131586;131842", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(458)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("132,866", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("132,866", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("135682;144387", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("135682", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(895)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("132,610", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("132,610", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("132,354", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("132,354", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131586;131586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(6289)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("133,890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133,890", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131072;134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131072", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(15258)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("134,146", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("134,146", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134914", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(525)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("134,402", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("134,402", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("132098;133635", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("132098", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(126)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("131,970", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("131,970", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
+gg.clearResults()
+gg.setVisible(false)
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("131,458", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("131,458", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("135682;131586", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131568", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(266)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("135,426", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("135,426", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133378;134914", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("133378", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(1899)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("133,121", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("133,121", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("131331;133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("131331", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(8958)
-gg.editAll("67174913", gg.TYPE_DWORD)
+gg.searchNumber("135,938", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.refineNumber("135,938", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(20000)
+gg.getResults(20000)
+gg.addListItems((gg.getResults(20000)))
 gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("133634;134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("133634", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(898)
-gg.editAll("67174913", gg.TYPE_DWORD)
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("134658;134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.refineNumber("134658", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1, 0)
-gg.getResults(669)
-gg.editAll("67174913", gg.TYPE_DWORD)
-gg.clearResults()
-gg.clearResults()
-gg.setRanges(gg.REGION_C_ALLOC)
-gg.searchNumber("65795~590336;67109633;131330", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.refineNumber("65795~590336", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
-gg.getResults(56789)
-gg.editAll("361418272522109953", gg.TYPE_QWORD)
-
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0540,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0548,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0550,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0558,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c900,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3c0,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3b8,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3b0,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3a8,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb3475c8,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2b1b3a4,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0540,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0548,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2f024a8,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c910,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb73156c,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3d0,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c3c8,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb34a468,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c980,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb079044,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c920,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x31d38dc,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb07818c,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb37c400,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c998,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x31d480c,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2ed0598,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb732744,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xe24c9a0,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0x2b1a25c,
+['value'] = 67109633,
+},
+})
+gg.getRangesList("libUE4.so")
+gg.setValues({
+[1] = {
+['flags'] = 4,
+['address'] = 0xb07718c,
+['value'] = 67109633,
+},
+})
 gg.clearResults()
