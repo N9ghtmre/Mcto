@@ -1,0 +1,7 @@
+gg.clearResults()
+gg.setRanges(gg.REGION_ANONYMOUS)
+gg.searchNumber("69.5;35;33", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+gg.getResults(6)
+gg.editAll("160;140;230", gg.TYPE_FLOAT)
+gg.clearResults()
+gg.toast("Magic Bullet")
